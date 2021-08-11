@@ -30,7 +30,7 @@ twitter_username: nidohorneros
 github_username:  nidohorneros
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
